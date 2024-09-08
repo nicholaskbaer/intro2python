@@ -1,1 +1,1 @@
-print('greetings universe')
+print('greetings friends of the universe')
